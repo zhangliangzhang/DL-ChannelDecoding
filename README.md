@@ -20,3 +20,5 @@ Start jupyter with theano on a GPU
 Access Jupyter Notebooks in a browser on
 
     http://[ip-adress]:8888
+just for me：
+just python 11.py
